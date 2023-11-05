@@ -1,0 +1,12 @@
+const blackKing = '<div class="piece" id="blackKing"><img src="pieces/blackKing.png"></div>';
+const blackQueen = '<div class="piece" id="blackQueen"><img src="pieces/blackQueen.png"></div>';
+const blackRook = '<div class="piece" id="blackRook"><img src="pieces/blackRook.png"></div>';
+const blackBishop = '<div class="piece" id="blackBishop"><img src="pieces/blackBishop.png"></div>';
+const blackKnight = '<div class="piece" id="blackKnight"><img src="pieces/blackKnight.png"></div>';
+const blackPawn = '<div class="piece" id="blackPawn"><img src="pieces/blackPawn.png"></div>';
+const whiteKing = '<div class="piece" id="whiteKing"><img src="pieces/whiteKing.png"></div>';
+const whiteQueen = '<div class="piece" id="whiteQueen"><img src="pieces/whiteQueen.png"></div>';
+const whiteRook = '<div class="piece" id="whiteRook"><img src="pieces/whiteRook.png"></div>';
+const whiteBishop = '<div class="piece" id="whiteBishop"><img src="pieces/whiteBishop.png"></div>';
+const whiteKnight = '<div class="piece" id="whiteKnight"><img src="pieces/whiteKnight.png"></div>';
+const whitePawn = '<div class="piece" id="whitePawn"><img src="pieces/whitePawn.png"></div>';
